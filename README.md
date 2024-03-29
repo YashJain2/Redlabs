@@ -1,7 +1,7 @@
-# Redlabs Project
+# Radlabs Project - Adventum
 
 ### Project Description
-
+Frontend web application for the Adventum.
 
 ### How to Run ?
 #### Locally
@@ -10,6 +10,12 @@
 - `npm i` or `npm ci`
 - `npm build`
 - `npm run dev`
+
+### Tech Stack
+- React-18
+- React-Router-Dom-6
+- TailwindCSS
+- Vitejs
 
 
 

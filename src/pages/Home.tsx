@@ -1,6 +1,13 @@
-const Home = () => {
+import Footer from "../components/Footer";
+import Header from "../components/Header";
+
+const Home:React.FC = () => {
     return(
-        <>Home Page</>
+        <>
+        <Header/>
+        {/* Different sections  */}
+        <Footer/>
+        </>
     );
 }
 
